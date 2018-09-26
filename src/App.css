@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'hollow-point';
-  src: url('../fonts/hollow-point/hollowpointsuperital.ttf') format('truetype');
+  src: url('/fonts/hollow-point/hollowpointsuperital.ttf') format('truetype');
 }
 
 .App {
